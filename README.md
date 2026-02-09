@@ -33,7 +33,7 @@ A planilha permite ao usuário simular diferentes cenários de investimento a pa
 ---
 
 ## ▶️ Como Utilizar
-1. Abra o arquivo `Simulador_Investimentos_FII.xlsx`
+1. Abra o arquivo `Planilha do Microsoft Exce.xlsx`
 2. Preencha os campos de entrada:
    - Valor do investimento inicial  
    - Tempo de investimento  
