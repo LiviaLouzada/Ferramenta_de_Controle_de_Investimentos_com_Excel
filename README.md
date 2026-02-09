@@ -1,54 +1,63 @@
-📊 Simulador de Investimentos em Fundos Imobiliários (Excel)
-📝 Descrição do Projeto
+# 📊 Simulador de Investimentos em Fundos Imobiliários (Excel)
 
-Este projeto consiste no desenvolvimento de uma ferramenta de simulação de investimentos em Fundos Imobiliários (FIIs) utilizando o Microsoft Excel, com o objetivo de auxiliar investidores na tomada de decisões mais conscientes e estratégicas.
+## 📌 Sobre o Projeto
+Este projeto foi desenvolvido como parte de um desafio da **DIO (Digital Innovation One)** e tem como objetivo a criação de uma **ferramenta de simulação de investimentos em Fundos Imobiliários (FIIs) utilizando o Microsoft Excel**.
 
-A planilha foi construída a partir da compreensão do funcionamento dos FIIs e das principais dúvidas enfrentadas por investidores, como valor do aporte inicial, período de investimento, taxa de rendimento e retorno mensal em dividendos. A solução automatiza cálculos financeiros relevantes, permitindo ao usuário visualizar de forma clara o valor total investido, o patrimônio acumulado ao longo do tempo e os dividendos mensais estimados.
+A planilha permite ao usuário simular diferentes cenários de investimento a partir de variáveis como valor aplicado, período de investimento e taxa de rendimento, oferecendo uma visão clara do **patrimônio acumulado** e dos **dividendos mensais estimados**.
 
-Além do desenvolvimento técnico, o projeto foi devidamente documentado e disponibilizado em um repositório público no GitHub, reforçando boas práticas de versionamento e compartilhamento de conhecimento técnico.
+---
 
-🎯 Objetivos do Projeto
+## 🎯 Objetivos
+- Aplicar conceitos de Excel na criação de uma ferramenta prática  
+- Simular investimentos em Fundos Imobiliários  
+- Automatizar cálculos financeiros  
+- Auxiliar na tomada de decisões mais informadas  
+- Documentar o projeto de forma clara e organizada  
+- Utilizar o GitHub como repositório público e portfólio  
 
-Criar uma ferramenta prática de simulação de investimentos em Excel
+---
 
-Aplicar cálculos financeiros como rendimento mensal e dividendos
+## 🧠 Conceitos Abordados
+- Funcionamento dos Fundos Imobiliários (FIIs)  
+- Cálculo de rendimento mensal  
+- Cálculo de dividendos  
+- Projeção de patrimônio acumulado  
+- Organização e documentação técnica  
 
-Automatizar cálculos complexos para facilitar a análise de investimentos
+---
 
-Documentar processos técnicos de forma clara e organizada
+## 🛠️ Ferramentas Utilizadas
+- **Microsoft Excel**
+- **GitHub**
 
-Utilizar o GitHub como plataforma de versionamento e portfólio
+---
 
-🧠 Conceitos Aplicados
+## ▶️ Como Utilizar
+1. Abra o arquivo `Simulador_Investimentos_FII.xlsx`
+2. Preencha os campos de entrada:
+   - Valor do investimento inicial  
+   - Tempo de investimento  
+   - Taxa de rendimento mensal  
+3. A planilha calculará automaticamente:
+   - Valor total investido  
+   - Patrimônio acumulado  
+   - Dividendos mensais estimados  
 
-Fundamentos de Fundos Imobiliários (FIIs)
+---
 
-Fórmulas financeiras no Excel
+## 📈 Resultados Esperados
+Com base nos dados informados, o usuário poderá visualizar de forma clara:
+- A evolução do investimento ao longo do tempo  
+- O retorno mensal em dividendos  
+- O potencial de crescimento do patrimônio  
 
-Cálculo de rendimento mensal
+---
 
-Projeção de patrimônio acumulado
+## 📎 Observações
+Este projeto tem fins educacionais e não constitui recomendação de investimento.
 
-Organização e documentação técnica em README.md
+---
 
-🛠️ Ferramentas Utilizadas
-
-Microsoft Excel
-
-GitHub
-
-🚀 Como Utilizar a Planilha
-
-Insira o valor do investimento inicial
-
-Defina o período do investimento
-
-Informe a taxa de rendimento mensal
-
-Visualize automaticamente:
-
-Total investido
-
-Patrimônio acumulado
-
-Dividendos mensais estimados
+## 👩‍💻 Autora
+**Lívia Louzada**  
+Projeto desenvolvido para fins de aprendizado na plataforma **DIO** 🚀
